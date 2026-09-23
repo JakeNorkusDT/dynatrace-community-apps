@@ -1,0 +1,18 @@
+[
+  {
+    "id": "example.host-cost-explorer",
+    "name": "Host Cost Explorer",
+    "description": "Break down consumption cost by host group and team.",
+    "author": "jane-doe",
+    "repoUrl": "https://github.com/jane-doe/host-cost-explorer",
+    "tags": ["cost", "hosts"]
+  },
+  {
+    "id": "example.k8s-drift-detector",
+    "name": "Kubernetes Drift Detector",
+    "description": "Flags workloads whose live config has drifted from their manifest.",
+    "author": "john-smith",
+    "repoUrl": "https://github.com/john-smith/k8s-drift-detector",
+    "tags": ["kubernetes", "automation"]
+  }
+]
